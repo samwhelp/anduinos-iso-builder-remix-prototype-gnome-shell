@@ -15,7 +15,9 @@ display-right-margin=true
 highlight-current-line=true
 insert-spaces=false
 tabs-size=uint32 4
-scheme='oblivion'
+#scheme='oblivion'
+style-scheme-for-dark-theme-variant='oblivion'
+style-scheme-for-light-theme-variant='solarized-light'
 use-default-font=false
 editor-font='Monospace 14'
 
