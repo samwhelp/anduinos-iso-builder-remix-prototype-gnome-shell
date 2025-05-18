@@ -18,8 +18,10 @@ ubuntu-session
 gnome-settings-daemon
 
 
+gnome-shell-extension-manager
 gnome-menus
 gnome-shell-extensions
+gnome-shell-extension-ubuntu-dock
 
 
 nemo
