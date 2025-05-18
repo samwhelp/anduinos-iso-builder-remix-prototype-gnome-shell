@@ -5,7 +5,11 @@ toggle-application-view=['<Super>grave', '<Control><Alt>Up']
 toggle-overview=['<Super>Tab', '<Control><Alt>Down']
 toggle-message-tray=['<Super>n']
 toggle-quick-settings=['<Super>m']
-focus-active-notification=['<Super>v']
+focus-active-notification=['<Super>b']
+screenshot=['Print']
+screenshot-window=['<Super>Print']
+show-screenshot-ui=['<Alt>Print']
+show-screen-recording-ui=['<Super><Control>v']
 
 
 [org.gnome.desktop.wm.keybindings]
