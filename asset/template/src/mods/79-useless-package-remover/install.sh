@@ -19,10 +19,10 @@ packages=(
     eog
     tilix
     gnome-contacts
-    gnome-terminal
+    #gnome-terminal
     zutty
     update-manager-core
-    gnome-shell-extension-ubuntu-dock
+    #gnome-shell-extension-ubuntu-dock
     libreoffice-*
     yaru-theme-unity
     yaru-theme-icon

@@ -24,9 +24,14 @@ gnome-shell-extensions
 gnome-shell-extension-ubuntu-dock
 
 
+nautilus
+nautilus-extension-gnome-terminal
+
+
 nemo
 
 
+gnome-terminal
 #mate-terminal
 lxterminal
 sakura
