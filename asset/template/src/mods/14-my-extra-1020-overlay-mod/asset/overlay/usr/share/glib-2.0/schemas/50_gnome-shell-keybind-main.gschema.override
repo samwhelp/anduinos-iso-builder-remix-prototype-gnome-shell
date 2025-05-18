@@ -3,7 +3,8 @@
 [org.gnome.shell.keybindings]
 toggle-application-view=['<Super>grave', '<Control><Alt>Up']
 toggle-overview=['<Super>Tab', '<Control><Alt>Down']
-toggle-message-tray=['<Super>m']
+toggle-message-tray=['<Super>n']
+toggle-quick-settings=['<Super>m']
 
 
 [org.gnome.desktop.wm.keybindings]
