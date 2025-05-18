@@ -18,6 +18,9 @@ ubuntu-session
 gnome-settings-daemon
 
 
+gnome-tweaks
+
+
 gnome-shell-extension-manager
 gnome-menus
 gnome-shell-extensions
